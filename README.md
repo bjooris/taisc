@@ -1,6 +1,6 @@
 # TAISC dual license
 
-Thank you for your interest in TAISC framework. If you continue to clone or browse this repository, you will be granted access to the TAISC framework. By doing so you confirm that you agree with the licensing terms below. 
+Thank you for your interest in TAISC framework. If you continue to clone or browse this repository you confirm that you agree with the licensing terms below. 
 
 For us it is essential that:
  * You will only use the TAISC framework for academic purposes
