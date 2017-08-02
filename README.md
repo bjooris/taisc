@@ -1,5 +1,4 @@
-# taisc dual license
-Time Annotated Instruction Set Computer
+# TAISC dual license
 
 Thank you for your interest in TAISC framework. If you continue to clone or browse this repository, you will be granted access to the TAISC framework. By doing so you confirm that you agree with the licensing terms below. 
 
