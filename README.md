@@ -4,13 +4,13 @@ Time Annotated Instruction Set Computer
 Thank you for your interest in TAISC framework. If you continue to log in, you will be granted access to the TAISC framework. By doing so you confirm that you agree with the licensing terms below. 
 
 For us it is essential that:
-	* You will only use the TAISC framework for academic purposes
-	* If you publish an article that contains results you obtained by using the TAISC framework, 
-	  you will cite the following publication “Bart Jooris, Jan Bauwens, Peter Ruckebusch, 
-	  Peter De Valck, Christophe Van Praet, Ingrid Moerman, Eli De Poorter, 
-	  TAISC: A cross-platform MAC protocol compiler and execution engine, Computer Networks, ISSN 1389-1286,
-	  http://dx.doi.org/10.1016/j.comnet.2016.03.027. (http://www.sciencedirect.com/science/article/pii/S1389128616300974)”
-	* You will not engage in a funded project using the TAISC framework without consulting us.
+ * You will only use the TAISC framework for academic purposes
+ * If you publish an article that contains results you obtained by using the TAISC framework, 
+  you will cite the following publication “Bart Jooris, Jan Bauwens, Peter Ruckebusch, 
+  Peter De Valck, Christophe Van Praet, Ingrid Moerman, Eli De Poorter, 
+  TAISC: A cross-platform MAC protocol compiler and execution engine, Computer Networks, ISSN 1389-1286,
+  http://dx.doi.org/10.1016/j.comnet.2016.03.027. (http://www.sciencedirect.com/science/article/pii/S1389128616300974)”
+ * You will not engage in a funded project using the TAISC framework without consulting us.
 	
 The TAISC framework  is owned by iMinds VZW, having its administrative offices in Belgium, B-9052 Gent, Technologiepark 19 AND Universiteit Gent • Ghent University, public institution with legal personality, having its administrative offices in Belgium, B-9000 Gent, Sint-Pietersnieuwstraat 25 and is provided in a time limited license to registered users for noncommercial research evaluation purposes only. The following is a legally binding agreement between yourself as licensee of the TAISC framework and Ghent University & iMinds as the legal owners and licensors of the Software.
 
@@ -20,10 +20,10 @@ If you do not agree to the license terms as described hereunder, you should not 
 Article 1 DEFINITIONS
 ---------------------
 In this Agreement the following expressions (either in singular or plural and with first letter capitalised) have the meaning as follows:
-	* “Agreement” shall mean this software license agreement.
-	* "Software" shall mean the TAISC framework as used, downloaded or installed by the user. 
-	* “Purpose” shall mean the use of the Software for non-commercial research purposes only.
-	* “Licensor” shall mean Ghent University and iMinds VZW
+ * “Agreement” shall mean this software license agreement.
+ * "Software" shall mean the TAISC framework as used, downloaded or installed by the user. 
+ * “Purpose” shall mean the use of the Software for non-commercial research purposes only.
+ * “Licensor” shall mean Ghent University and iMinds VZW
 	
 Article 2 Grant of rights, Exclusion of rights, Proprietary Rights
 ------------------------------------------------------------------
